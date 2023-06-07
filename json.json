@@ -1,0 +1,567 @@
+{
+  "PNRpublishPB": {
+    "title": "PNRpublishPB",
+    "currentDatetime": "2023-04-07 04:12:42.623058",
+    "RCN": "41F7A9",
+    "PNRCreateDatetime": "2023-04-07 04:12:00.000",
+    "Header": {
+      "OrdinalNumber": "41F7A9",
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "BookingOutletType": "IND",
+      "TripType": "R",
+      "HoldLimitDate": "2023-05-30 00:00:00.168",
+      "CreateDutyCode": "IW",
+      "CreateAgentID": "0910",
+      "CreateLocationCode": "ITN",
+      "ContactType": "P",
+      "ArrowPurgeDate": "2023-12-22 00:00:00.170",
+      "LastUpdateAgentID": "0654",
+      "NameAssociation": "Y",
+      "UniqueReservationID": "1AEB560E-D535-11ED-81C3-0106BAE83907",
+      "DutyCode": "IW",
+      "LocationCode": "ITN",
+      "NumberOfFolders": "0"
+    },
+    "SegmentSection": {
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "NumberOfSegments": "2",
+      "Segment": [
+        {
+          "SegmentNumber": "1",
+          "TrainNumber": "2175",
+          "TrainIndexDate": "2023-05-30 00:00:00.168",
+          "OriginLocationCode": "PVD",
+          "DestinationCode": "WAS",
+          "BookingDate": "2023-04-07 04:12:00.168",
+          "BookingChannelCode": "IW",
+          "BookingStatusCode": "HK",
+          "TypeCode": "A",
+          "LogicalTripNumber": "1",
+          "TransportationType": "T",
+          "TariffType": "M",
+          "DepartureDateTime": "2023-05-30 18:00:00.168",
+          "ArrivalDateTime": "2023-05-30 23:51:00.168",
+          "RBDcount": "1",
+          "RBDcode": "PD",
+          "RBDbasecode": "PK",
+          "PassengerCount": "1",
+          "CarrierCode": "AM",
+          "TDDeligible": "Y",
+          "BoardStnUnstaffed": "Y",
+          "OffStnUnstaffed": "Y"
+        },
+        {
+          "SegmentNumber": "2",
+          "TrainNumber": "2150",
+          "TrainIndexDate": "2023-06-30 00:00:00.168",
+          "OriginLocationCode": "WAS",
+          "DestinationCode": "PVD",
+          "BookingDate": "2023-04-07 04:12:00.168",
+          "BookingChannelCode": "IW",
+          "BookingStatusCode": "HK",
+          "TypeCode": "A",
+          "LogicalTripNumber": "2",
+          "TransportationType": "T",
+          "TariffType": "M",
+          "DepartureDateTime": "2023-06-30 05:00:00.168",
+          "ArrivalDateTime": "2023-06-30 10:57:00.168",
+          "RBDcount": "1",
+          "RBDcode": "PD",
+          "RBDbasecode": "PK",
+          "PassengerCount": "1",
+          "CarrierCode": "AM",
+          "TDDeligible": "Y",
+          "BoardStnUnstaffed": "Y",
+          "OffStnUnstaffed": "Y"
+        }
+      ]
+    },
+    "PassengerSection": {
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "NbrOfPassengers": "1",
+      "NbrOfFolders": "0",
+      "EmailAddr1": "PTMHPP+IDRID07042023@GMAIL.COM",
+      "BillingAddrName": "IDRID",
+      "BillingStreet1": "IDRID BILLING STREETWAY",
+      "BillingStreet2": "IDRID BILLING APT SUITE ETC",
+      "BillingCity": "WASHINGTON",
+      "BillingState": "WA",
+      "BillingCountry": "US",
+      "BillingZip": "98101",
+      "Passenger": [
+        {
+          "PassengerNumber": "1",
+          "FirstName": "IDRID",
+          "LastName": "PUNJAB",
+          "UUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907",
+          "PassengerBirthdate": "12-12-1980"
+        }
+      ]
+    },
+    "PhoneSection": {
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "NbrOfPhones": "1",
+      "PassengerContact": [
+        {
+          "SequenceCtcNbr": "9001",
+          "PassengerCtcNbr": "1",
+          "PhoneType": "C",
+          "AreaCode": "202",
+          "PhoneNbr": "9064406",
+          "PhoneAppText": "CONTACTTEXT",
+          "PaxUUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907"
+        }
+      ]
+    },
+    "MiscSection": {
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "NbrofMiscItems": "3",
+      "MiscItem": [
+        {
+          "MiscCode": "PRF",
+          "MiscText": "001: C0030"
+        },
+        {
+          "MiscCode": "RMK",
+          "MiscText": "001: TCVERSION_TCTIMESTAMP:2.9.18~07-APR-23 07.12.38.693 AM; 002: CREATED BY SITATEST; 003: IPADDRESS/103.237.118.158, 104.124.54.62, 104.96.220.142, 10.12.9.87,; 004: 10.12.9.87; 005: OMNICHANNEL:SITATEST:VERSION-"
+        },
+        {
+          "MiscCode": "ZIP",
+          "MiscText": "001: 98101"
+        }
+      ]
+    },
+    "SSRsection": {
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "NbrofSSRs": "2",
+      "SSR": [
+        {
+          "SequenceSsrNbr": "4001",
+          "SsrOsiSeq": "1",
+          "SsrSegmentNumber": "1",
+          "SSRcode": "SEAT",
+          "SSRstatus": "HK",
+          "NbrOfPsgr": "1",
+          "PassengerNumber": "1",
+          "CarNumberAssign": "0001",
+          "RowNumberAssign": "04",
+          "ColumnNumberAssign": "F",
+          "PaxUUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907"
+        },
+        {
+          "SequenceSsrNbr": "4002",
+          "SsrOsiSeq": "2",
+          "SsrSegmentNumber": "2",
+          "SSRcode": "SEAT",
+          "SSRstatus": "HK",
+          "NbrOfPsgr": "1",
+          "PassengerNumber": "1",
+          "CarNumberAssign": "0001",
+          "RowNumberAssign": "04",
+          "ColumnNumberAssign": "F",
+          "PaxUUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907"
+        }
+      ]
+    },
+    "TicketSection": {
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "NbrOfTickets": "3",
+      "TktUpdateTxn": "Y",
+      "TicketItem": [
+        {
+          "TktSequence": "7001",
+          "TicketType": "REC"
+        },
+        {
+          "TktSequence": "7002",
+          "SegNbrTkt": "1",
+          "PaxNbrTkt": "1",
+          "TicketType": "EKT",
+          "TicketNumber": "0970654000011",
+          "FormOfPymt1": "VI",
+          "FOPAmount1": "374.00",
+          "TktCpnValueAmt": "194.00",
+          "TicketIssuanceDatetime": "2023-04-07 04:12:00.168",
+          "TicketActiveInd": "Y",
+          "ElectronicTicket": "Y",
+          "PaxUUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907"
+        },
+        {
+          "TktSequence": "7003",
+          "SegNbrTkt": "2",
+          "PaxNbrTkt": "1",
+          "TicketType": "EKT",
+          "TicketNumber": "0970654000029",
+          "FormOfPymt1": "VI",
+          "FOPAmount1": "374.00",
+          "TktCpnValueAmt": "194.00",
+          "TicketIssuanceDatetime": "2023-04-07 04:12:00.168",
+          "TicketActiveInd": "Y",
+          "ElectronicTicket": "Y",
+          "PaxUUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907"
+        }
+      ]
+    },
+    "FareSection": {
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "NbrOfFarePlan": "2",
+      "FarePlan": [
+        {
+          "SequenceFareNbr": "3001",
+          "SegmentNbr": "1",
+          "PassengerFareNbr": "1",
+          "PaxTypeCnt": "1",
+          "FareBasisCode": "F",
+          "PricingInd": "A",
+          "FarePlanCode": "DOAE",
+          "PricingDatetime": "2023-04-07 00:00:00.168",
+          "PaxUUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907"
+        },
+        {
+          "SequenceFareNbr": "3002",
+          "SegmentNbr": "2",
+          "PassengerFareNbr": "1",
+          "PaxTypeCnt": "1",
+          "FareBasisCode": "F",
+          "PricingInd": "A",
+          "FarePlanCode": "DOAE",
+          "PricingDatetime": "2023-04-07 00:00:00.168",
+          "PaxUUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907"
+        }
+      ]
+    },
+    "MonetarySection": {
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "NbrOfMonetary": "4",
+      "Monetary": [
+        {
+          "SegmentMntryNbr": "1",
+          "PassengerMntryNbr": "1",
+          "MonetaryCode": "RA",
+          "MonetaryAmt": "194.00",
+          "PricingAmt": "194.00",
+          "PaxUUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907"
+        },
+        {
+          "SegmentMntryNbr": "1",
+          "PassengerMntryNbr": "1",
+          "MonetaryCode": "AA",
+          "MonetaryAmt": "180.00",
+          "PricingAmt": "180.00",
+          "PaxUUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907"
+        },
+        {
+          "SegmentMntryNbr": "2",
+          "PassengerMntryNbr": "1",
+          "MonetaryCode": "RA",
+          "MonetaryAmt": "194.00",
+          "PricingAmt": "194.00",
+          "PaxUUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907"
+        },
+        {
+          "SegmentMntryNbr": "2",
+          "PassengerMntryNbr": "1",
+          "MonetaryCode": "AA",
+          "MonetaryAmt": "180.00",
+          "PricingAmt": "180.00",
+          "PaxUUID": "1B6A56AC-D535-11ED-81C3-0106BAE83907"
+        }
+      ]
+    },
+    "FiveFieldSection": {
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "NbrOfMisc": "11",
+      "Miscellaneous": [
+        {
+          "SequenceMiscNbr": "5001",
+          "MiscTenCode": "DOB",
+          "MiscTenText": "12DEC1980/P1"
+        },
+        {
+          "SequenceMiscNbr": "5002",
+          "MiscTenCode": "EML",
+          "MiscTenText": "I-PTMHPP+IDRID07042023@GMAIL.COM"
+        },
+        {
+          "SequenceMiscNbr": "5003",
+          "MiscTenCode": "PRF",
+          "MiscTenText": "C0030"
+        },
+        {
+          "SequenceMiscNbr": "5004",
+          "MiscTenCode": "RMK",
+          "MiscTenText": "TCVERSION_TCTIMESTAMP:2.9.18~07-APR-23 07.12.38.693 AM"
+        },
+        {
+          "SequenceMiscNbr": "5005",
+          "MiscTenCode": "RMK",
+          "MiscTenText": "CREATED BY SITATEST"
+        },
+        {
+          "SequenceMiscNbr": "5006",
+          "MiscTenCode": "RMK",
+          "MiscTenText": "IPADDRESS/103.237.118.158, 104.124.54.62, 104.96.220.142, 10.12.9.87,"
+        },
+        {
+          "SequenceMiscNbr": "5007",
+          "MiscTenCode": "RMK",
+          "MiscTenText": "10.12.9.87"
+        },
+        {
+          "SequenceMiscNbr": "5008",
+          "MiscTenCode": "RMK",
+          "MiscTenText": "OMNICHANNEL:SITATEST:VERSION-"
+        },
+        {
+          "SequenceMiscNbr": "5009",
+          "MiscTenCode": "UID",
+          "MiscTenText": "1AEB560E-D535-11ED-81C3-0106BAE83907"
+        },
+        {
+          "SequenceMiscNbr": "5010",
+          "MiscTenCode": "BAI",
+          "MiscTenText": "IDRID IDRID BILLING STREETWAY IDRID BILLING APT SUITE ETC WASHINGTON,WA,98101"
+        },
+        {
+          "SequenceMiscNbr": "5011",
+          "MiscTenCode": "ZIP",
+          "MiscTenText": "98101"
+        }
+      ]
+    },
+    "Indicators": {
+      "WA0CSP": {
+        "FoundInvPTA": "N",
+        "FoundValidPTA": "N",
+        "FoundOldPTA": "N",
+        "NeedMCOFOP": "N",
+        "LastStnUnstaffed": "N",
+        "FoundBadMCO": "N",
+        "NAPOpenSegment": "N"
+      },
+      "WA0ET1": {
+        "FareMaintProg": "N",
+        "EndTxnRtrv": "N",
+        "ROind": "N",
+        "SegCxlTxn": "N",
+        "ReconcileDisp": "N",
+        "Active7APP": "N",
+        "DXAexist": "N",
+        "SegmentAddedTxn": "N"
+      },
+      "WA0ET2": {
+        "AAARtrvPNR": "Y",
+        "HistoryExist": "Y",
+        "ItinChgTxn": "N",
+        "SegStatChgTxn": "N",
+        "NameChgTxn": "N",
+        "ContactChgTxn": "N",
+        "InvSoldTxn": "N",
+        "PhoneChgTxn": "N"
+      },
+      "WA0ET3": {
+        "HoldLimitChgTxn": "Y",
+        "TktgFldChgTxn": "N",
+        "ChgSegSSRstat": "N",
+        "FareQuoteSetHL": "N",
+        "PNRmanualPriced": "N",
+        "MiscPDTxn": "N",
+        "AAAaux": "N",
+        "RmkPaxData": "N"
+      },
+      "WA0ET4": {
+        "TrngAgtPNR": "N",
+        "PDTopterr": "N",
+        "PDTbasicerr": "N",
+        "AutoCrew": "N",
+        "FareNotTBMElig": "N",
+        "TrainCrew": "N",
+        "I3FieldExist": "Y",
+        "I3FieldPrice": "N"
+      },
+      "WA0ET5": {
+        "TBMInvoPNR": "N",
+        "ValidPPO": "N",
+        "ETktPNR": "Y",
+        "TktIssPNR": "Y",
+        "NewTBMEntryValid": "N",
+        "TBMTktPrinter": "N",
+        "QEPbit": "N",
+        "PNRfieldChg": "Y"
+      },
+      "WA0ET6": {
+        "RemovePNRQueue": "N",
+        "TrvlAgyTktgXHL": "N",
+        "PNRFirmingReqd": "N",
+        "SSRTxnChg": "N",
+        "SSRAddTxn": "N",
+        "ProtCodeExist": "Y",
+        "AirExist": "N",
+        "NewNameAdded": "N"
+      },
+      "WA0ET7": {
+        "NewValidPPO": "N",
+        "PermPNR": "N",
+        "FareNoticeMsg": "N",
+        "CxledDuetoHL": "N",
+        "QuickTicket": "N",
+        "NeedNoAdult": "N",
+        "OverCapLimit": "N",
+        "New3Field": "N"
+      },
+      "WA0ET8": {
+        "SchedChgCrewCxl": "N",
+        "FuncKeyInput": "N",
+        "TktedSegCxl": "N",
+        "SegTkted": "N",
+        "XHLproc": "N",
+        "NotFirmPNR": "N",
+        "DupeBkgProc": "N",
+        "XTLproc": "N"
+      },
+      "WA0ET9": {
+        "GroupBooking": "N",
+        "WaitlistProc": "N",
+        "ROrouting": "N",
+        "SchedChgUser": "N",
+        "PNRchained": "N",
+        "QueuePNR1": "N",
+        "QueuePNR2": "N",
+        "TBMinPNR": "N"
+      },
+      "WA0ETA": {
+        "PassriderAvl": "N",
+        "PassriderSeg": "N",
+        "PassriderRes": "N",
+        "CoachtoCF": "N",
+        "NameChange": "N",
+        "PassriderInd": "N",
+        "MultiNames": "N",
+        "PrimaryNameModCxl": "N"
+      },
+      "WA0IBI": {
+        "InternetPNRmod": "N",
+        "FirstEmail": "N",
+        "I5EMLfield": "Y",
+        "AGRredempt": "N",
+        "PrintAtHome": "N",
+        "ElecTktXchgMode": "N",
+        "EROKreqd": "N",
+        "PSRAPSRF": "N"
+      },
+      "WA0ETG": {
+        "I5ADVfield": "N",
+        "PaxDataUpd": "N",
+        "TktRecptHistPurch": "N",
+        "TktRecptHistRef": "N",
+        "AutoConf": "N",
+        "I5SCHadded": "N",
+        "NeutralSCseg": "N",
+        "NonNeutralSCseg": "N"
+      },
+      "WA0ETH": {
+        "FirearmInd": "N",
+        "TvlFirearms": "N",
+        "EmailTktDelv": "N",
+        "MobTktDelv": "N",
+        "PrintTktDelv": "N",
+        "SvcFee": "N",
+        "ElecTktDelv": "N",
+        "TDDelig": "N"
+      },
+      "WA0EPT": {
+        "EvenXchgTkts": "N",
+        "DownXchgTkt": "N",
+        "UpgXchgTkt": "N",
+        "UpgXchgProc": "N",
+        "InitChgTkts": "Y",
+        "EtktRefunded": "N",
+        "ForfeitEROKHL": "N",
+        "DownNoXchg": "N"
+      },
+      "WA0IC1": {
+        "ESegexist": "Y",
+        "ChkdSeg": "N",
+        "LiftedSeg": "N",
+        "NewHLReqd": "N",
+        "NonTktdSeg": "N",
+        "EROKHLwait": "N",
+        "ForceChkIn": "N",
+        "UndoForceCI": "N"
+      },
+      "WA0IC2": {
+        "ChkInRqst": "N",
+        "ChkInCxlRqst": "N",
+        "EtktSegChg": "N",
+        "EROKHLCVVreqd": "N",
+        "TicketLift": "N",
+        "TicketUnlift": "N",
+        "I7RECexist": "N",
+        "BarcodeTktDelv": "N"
+      },
+      "WA0ETJ": {
+        "AGRcpnUpgEven": "N",
+        "AGRcpnDown": "N",
+        "HotlistEtkt": "N"
+      },
+      "WA0ETF": {
+        "I3FieldUnpk": "Y",
+        "I5CORexist": "N",
+        "RestThruwayBus": "N",
+        "QueueGDSPnr": "N",
+        "PSRFentry": "N",
+        "RECLOCentry": "N",
+        "NPactioncode": "N",
+        "CrossRefTrvl": "N"
+      },
+      "WA0MSP": {
+        "TBMfound": "N",
+        "PermEPPNR": "N",
+        "CreatedfromPerm": "N",
+        "PermPNRcxled": "N",
+        "AreaCodeNotTBM": "N",
+        "NapNepPNR": "N"
+      }
+    },
+    "FOPsection": {
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "FOPItemsCnt": "1",
+      "FOPitem": [
+        {
+          "SequenceFOPNbr": "1001",
+          "FOPcode": "VI",
+          "AccountNbr": "7361561471341000",
+          "ExpDate": "12/24",
+          "FOPtext": "IDRID"
+        }
+      ]
+    },
+    "TicketReceiptSection": {
+      "LastUpdateTime": "2023-04-07 04:12:00.168",
+      "LastTxnTktCnt": "2",
+      "TktHoldCnt": "1",
+      "TotalTktAmt": "748.00",
+      "LiftedAmt": ".00",
+      "UnliftedAmt": "748.00",
+      "ForfeitAmt": ".00",
+      "AvailAmt": "748.00",
+      "NewTktAmt": "748.00",
+      "ExcessTktAmt": ".00",
+      "EvouchAmt": ".00",
+      "RefundWithoutFee": ".00",
+      "RefSubjFee": ".00",
+      "RefundFee": ".00",
+      "RefundAmount": ".00",
+      "ChargeAmount": "748.00",
+      "PurchDatetime": "2023-04-07 04:12:00.168",
+      "LastTransTktItem": [
+        {
+          "LastTransTkt": "0970654000011"
+        },
+        {
+          "LastTransTkt": "0970654000029"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "sourceSystemId": "PNR",
+  "channelId": "Arrow",
+  "custPnr": {
+    "pnrNumber": "98J9V9",
+    "pnrCreateDate": "2023-04-04",
+    "ticketNumber": "0940649000012"
+  },
+  "customerProfile": {
+    "lastName": "GANDHI",
+    "firstName": "RAHUL",
+    "birthDate": "11-11-1990",
+    "custEmail": [
+      {
+        "emailAddress": "PTMHPP+RAHULGANDHI04042023@GMAIL.COM",
+        "emailTypeCode": "Other",
+        "emailValidInd": "Y",
+        "lastUpdateDate": "2023-04-04T03:29:00"
+      }
+    ],
+    "custAddress": [
+      {
+        "line1Address": "RAHUL BILLING STREETWAY",
+        "line2Address": "RAHUL BILLING APT SUITE ETC",
+        "cityName": "WASHINGTON",
+        "stateCode": "WA",
+        "countryCode": "US",
+        "postalBaseCode": "98101",
+        "lastUpdateDate": "2023-04-04T03:29:00",
+        "countryAccessCode": "001",
+        "billingAddressInd": "Y"
+      }
+    ],
+    "custPhone": [
+      {
+        "phoneNumber": "2029064406",
+        "phoneNumberTypeCode": "M",
+        "lastUpdateDate": "2023-04-04T03:29:00"
+      }
+    ],
+    "lastUpdateDate": "2023-04-04T03:29:00"
+  }
+}
